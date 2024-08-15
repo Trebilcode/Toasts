@@ -6,7 +6,7 @@ In this project, we'll dive deep into the implementation of a single common UI c
 
 ## Myself, Daniel Trebilcock, created the logic for the toasts show/removal.
 
-### Be my guest and take a look into the code to see how it is structured :)
+### Be my guest and take a look into the code to see how it is structured.
 
 ![Screen recording showing 3 toast messages popping up from user input](./docs/toast-demo.gif)
 
