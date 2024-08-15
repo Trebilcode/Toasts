@@ -16,6 +16,7 @@
     "react-feather": "2.0.10",
     "rimraf": "^5.0.1"
   },
+  "homepage": "http://Trebilcode.github.io/Toasts",
   "scripts": {
     "predev": "rimraf .parcel-cache dist",
     "dev": "parcel public/index.html",
