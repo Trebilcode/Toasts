@@ -4,7 +4,7 @@
 
 In this project, we'll dive deep into the implementation of a single common UI component: A `<Toast>` message component.
 
-## Myself, Daniel Trebilcock, created the logic for this project. [Click here to watch a demo](https://trebilcode.github.io).
+### Myself, Daniel Trebilcock, created the logic for this project. [Click here to watch a demo](https://trebilcode.github.io).
 
 ### Be my guest and take a look into the code to see how it is structured.
 
