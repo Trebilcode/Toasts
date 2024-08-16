@@ -135,15 +135,13 @@
   align-items: center;
   width: 350px;
   max-width: 100%;
-  padding-right: 16px;
   display: flex;
   position: relative;
 }
 
 .GFhwnW_content {
   flex: 1;
-  max-width: 55%;
-  margin-left: -84px;
+  width: 10px;
   padding: 12px;
   font-weight: 600;
 }
@@ -162,7 +160,7 @@
   background: none;
   border: none;
   flex-shrink: 0;
-  padding: 16px 0 16px 12px;
+  padding: 16px 16px 16px 12px;
 }
 
 .GFhwnW_notice {

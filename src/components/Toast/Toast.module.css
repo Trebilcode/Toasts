@@ -3,7 +3,6 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding-right: 16px;
   border-radius: 16px;
   color: black;
   color-scheme: light;
@@ -16,9 +15,8 @@
 .content {
   flex: 1;
   padding: 12px;
-  margin-left: -84px;
   font-weight: 600;
-  max-width: 55%;
+  width: 10px;
 }
 
 .iconContainer {
@@ -36,7 +34,7 @@
   background: transparent;
   padding: 16px;
   padding-left: 12px;
-  padding-right: 0px;
+  /* padding-right: 0px; */
   cursor: pointer;
 }
 
