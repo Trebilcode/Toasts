@@ -2,7 +2,10 @@
   position: relative;
   display: flex;
   align-items: center;
+  justify-content: space-evenly;
   gap: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
   border-radius: 16px;
   color: black;
   color-scheme: light;
@@ -16,15 +19,14 @@
   flex: 1;
   padding: 12px 0px;
   font-weight: 600;
-  max-width: 100%;
-  width: fit-content;
+  max-width: 55%;
 }
 
 .iconContainer {
   flex-shrink: 0;
   padding: 16px;
-  padding-right: 0px;
 }
+
 .iconContainer svg {
   display: block;
 }
@@ -34,6 +36,8 @@
   border: none;
   background: transparent;
   padding: 16px;
+  padding-left: 12px;
+  padding-right: 14px;
   cursor: pointer;
 }
 

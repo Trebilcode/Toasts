@@ -131,25 +131,27 @@
   box-shadow: var(--shadow-elevation-medium);
   background: #fff;
   border-radius: 16px;
+  justify-content: space-evenly;
   align-items: center;
   gap: 16px;
   width: 350px;
   max-width: 100%;
+  padding-left: 16px;
+  padding-right: 16px;
   display: flex;
   position: relative;
 }
 
 .GFhwnW_content {
   flex: 1;
-  width: fit-content;
-  max-width: 100%;
+  max-width: 55%;
   padding: 12px 0;
   font-weight: 600;
 }
 
 .GFhwnW_iconContainer {
   flex-shrink: 0;
-  padding: 16px 0 16px 16px;
+  padding: 16px;
 }
 
 .GFhwnW_iconContainer svg {
@@ -161,7 +163,7 @@
   background: none;
   border: none;
   flex-shrink: 0;
-  padding: 16px;
+  padding: 16px 14px 16px 12px;
 }
 
 .GFhwnW_notice {

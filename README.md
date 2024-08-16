@@ -4,7 +4,7 @@
 
 In this project, we'll dive deep into the implementation of a single common UI component: A `<Toast>` message component.
 
-## Myself, Daniel Trebilcock, created the logic for the toasts show/removal.
+## Myself, Daniel Trebilcock, created the logic for this project. [Here's a live demo](https://trebilcode.github.io 'Toasts')
 
 ### Be my guest and take a look into the code to see how it is structured.
 
