@@ -131,9 +131,8 @@
   box-shadow: var(--shadow-elevation-medium);
   background: #fff;
   border-radius: 16px;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
-  gap: 16px;
   width: 350px;
   max-width: 100%;
   padding-right: 16px;
@@ -144,7 +143,8 @@
 .GFhwnW_content {
   flex: 1;
   max-width: 55%;
-  padding: 12px 0;
+  margin-left: -84px;
+  padding: 12px;
   font-weight: 600;
 }
 

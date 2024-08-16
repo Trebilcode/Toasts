@@ -2,8 +2,7 @@
   position: relative;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
-  gap: 16px;
+  justify-content: space-between;
   padding-right: 16px;
   border-radius: 16px;
   color: black;
@@ -16,7 +15,8 @@
 
 .content {
   flex: 1;
-  padding: 12px 0px;
+  padding: 12px;
+  margin-left: -84px;
   font-weight: 600;
   max-width: 55%;
 }
