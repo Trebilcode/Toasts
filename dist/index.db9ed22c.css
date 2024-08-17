@@ -108,6 +108,33 @@
   display: block;
 }
 
+@media (width <= 34rem) {
+  .d7rB_G_row {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .d7rB_G_label {
+    max-height: 2rem;
+    align-self: revert !important;
+  }
+
+  .d7rB_G_inputWrapper {
+    min-width: 80%;
+  }
+
+  .d7rB_G_radioWrapper {
+    justify-content: center;
+  }
+
+  .d7rB_G_wrapper {
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+  }
+}
+
 ._iOXHW_showWrapper {
   font-size: .5rem;
 }
