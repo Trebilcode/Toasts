@@ -62,3 +62,9 @@
 .error .iconContainer {
   color: var(--color-error);
 }
+
+@media (width <= 34rem){
+  .toast {
+    width: 380px;
+  }
+}

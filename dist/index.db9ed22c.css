@@ -222,6 +222,12 @@
   color: var(--color-error);
 }
 
+@media (width <= 34rem) {
+  .GFhwnW_toast {
+    width: 380px;
+  }
+}
+
 @keyframes _YfUPa_toast {
   from {
     transform: translateX(calc(100% + 64px));
@@ -242,6 +248,13 @@
 ._YfUPa_toastWrapper {
   will-change: transform;
   animation: .8s cubic-bezier(0, .46, 0, 1.04) both _YfUPa_toast;
+}
+
+@media (width <= 34rem) {
+  ._YfUPa_wrapper {
+    left: 1%;
+    right: 1%;
+  }
 }
 
 .BOBUQq_wrapper {
